@@ -22,4 +22,4 @@
 
 <br> Linkedin:https://www.linkedin.com/in/ege-s%C3%BCl-a81848274/
 <br> İns:https://www.instagram.com/kont.ege/
-<br>Gmail:egesul1881@gmail.com
+<br>Gmail:patosul17@gmail.com
