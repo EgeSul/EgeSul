@@ -24,3 +24,4 @@
 <br> İns:https://www.instagram.com/kont.ege/
 <br>Gmail:patosul17@gmail.com
 <br>Freelancer:https://www.freelancer.com/u/Patohizm
+<br>Fiverr:https://www.fiverr.com/patosul/buying?source=avatar_menu_profile
