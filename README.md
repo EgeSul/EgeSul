@@ -20,7 +20,7 @@
 --------------------------------------------------------------------------------------------
 🤝 Connect with Me
 
-<br> Linkedin:https://www.linkedin.com/in/ege-s%C3%BCl-a81848274/
+<br> Linkedin:https:https://www.linkedin.com/in/egesul/
 <br> İns:https://www.instagram.com/kont.ege/
 <br>Gmail:patosul17@gmail.com
 <br>Freelancer:https://www.freelancer.com/u/Patohizm
