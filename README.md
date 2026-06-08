@@ -9,7 +9,7 @@
 <br>🏋️‍♂️ Outside of coding, I’m a fitness enthusiast—disciplined in the gym and at the desk.
 
 🛠 Tech Stack & Skills
-<br> Languages: Python, C#, JavaScript, Css, Sql.
+<br> Languages: Python, C#, JavaScript, Css, Sql, Wordpress.
 <br> Fields of Interest: Backend Development, Algorithms, System Architecture.
 <br> Soft Skills: Rational Problem Solving, Disciplined Work Ethic, Analytical Thinking.
 
