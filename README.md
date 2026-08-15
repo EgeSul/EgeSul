@@ -10,7 +10,8 @@
 
 🛠 Tech Stack & Skills
 <br> The Core Stack: C#, Css, Sql, Javascript.
-<br> Languages: Python, Next.js, Vue 3, php, Wordpress.
+<br> Tech Stack : Python, Next.js, Vue 3, php, Wordpress.
+<br> Languages: Türkçe and english.
 <br> Fields of Interest: Backend Development, Algorithms, System Architecture.
 <br> Soft Skills: Rational Problem Solving, Disciplined Work Ethic, Analytical Thinking.
 
