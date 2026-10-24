@@ -1,29 +1,44 @@
-<h1 align="center">Hi, I'am Ege Sül</h1>
+<div align="center">
+  <h1>Hi, I'm Ege Sül 👋</h1>
+  <h3>Backend Developer & System Architecture Enthusiast</h3>
+  <p><i>Building high-performance, scalable backend systems and optimizing data structures.</i></p>
 
-<p align="center">I am a passionate Computer Science student and a dedicated self-taught developer focused on building a high-standard career in the tech industry. I thrive on solving complex problems, optimizing workflows, and constantly expanding my technical toolkit.</p>
+  <br>
 
-<br>🚀 About Me
-<br>🎓 Currently studying Computer Programming.
-<br>💡 Deeply committed to continuous self-improvement and mastering modern technologies.
-<br>🎯 My goal is to achieve financial independence through high-quality software engineering and innovation.
-<br>🏋️‍♂️ Outside of coding, I’m a fitness enthusiast—disciplined in the gym and at the desk.
+  <!-- İletişim Rozetleri -->
+  <a href="https://www.linkedin.com/in/egesul/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:patosul17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.instagram.com/kont.ege/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
 
-🛠 Tech Stack & Skills
-<br> The Core Stack: C#, Sql.
-<br> Tech Stack : Python, Next.js, Vue 3, php, Wordpress, Javascript, Css.
-<br> Languages: Türkçe and english.
-<br> Fields of Interest: Backend Development, Algorithms, System Architecture.
-<br> Soft Skills: Rational Problem Solving, Disciplined Work Ethic, Analytical Thinking.
+<br>
 
-<br>📈 What I'm Working On
-<br>🔍 Deep diving into Data Structures and Algorithms.
-<br>🏗️ Building scalable personal projects to refine my architecture skills.
-<br>📚 Staying updated with the latest industry trends to maintain high standards in my work.
---------------------------------------------------------------------------------------------
-🤝 Connect with Me
+### 🚀 About Me
+- 💻 Focused on **Enterprise Architecture, Clean Code, and Backend Performance**.
+- 🎓 Computer Programming student aiming for engineering excellence.
+- 🎯 Driven by discipline—rational problem solving at the desk, relentless consistency in the gym.
 
-<br> Linkedin:https://www.linkedin.com/in/egesul/
-<br> İns:https://www.instagram.com/kont.ege/
-<br>Gmail:patosul17@gmail.com
-<br>Freelancer:https://www.freelancer.com/u/Patohizm
-<br>Fiverr:https://www.fiverr.com/patosul/buying?source=avatar_menu_profile
+### 🛠️ Tech Stack
+| Category | Technologies |
+| :--- | :--- |
+| **Core Stack** | `C#` `.NET Core` `MS SQL Server` |
+| **Frontend / Web** | `JavaScript` `Vue 3` `Next.js` `CSS` |
+| **Other Languages** | `Python` `PHP` |
+| **Focus Areas** | `Algorithms` `Data Structures` `System Architecture` `REST APIs` |
+
+### 📈 What I'm Working On
+- 🏗️ Building **scalable enterprise-grade personal projects** (like TreeBench).
+- 🧠 Deep diving into advanced **Data Structures and Algorithmic optimization**.
+- ⚙️ Refining database workflows and mastering multi-layered backend systems.
+
+<br>
+
+<div align="center">
+  <i>"Committed to continuous self-improvement and high-quality software engineering."</i>
+</div>
