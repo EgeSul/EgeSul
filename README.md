@@ -22,7 +22,7 @@
 ### 🚀 About Me
 - 💻 Focused on **Enterprise Architecture, Clean Code, and Backend Performance**.
 - 🎓 Computer Programming student aiming for engineering excellence.
-- 🎯 Driven by discipline—rational problem solving at the desk, relentless consistency in the gym.
+- 🎯 Driven by discipline—rational problem solving at the desk.
 
 ### 🛠️ Tech Stack
 | Category | Technologies |
